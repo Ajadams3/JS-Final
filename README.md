@@ -1,4 +1,4 @@
-# [JS-Final]  (https://github.com/Ajadams3/JS-Final/tree/master/JS-Final):
+# [JS-Final] (https://github.com/Ajadams3/JS-Final/tree/master/JS-Final):
 Compilation of JS Games By Kim and Angelo
 - To run it: 
   - Download the folder 
